@@ -35,3 +35,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Angular frontend ###
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/
