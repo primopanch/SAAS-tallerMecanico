@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Git Ramas (branch).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "Git Ramas (branch)"
             }
           }
         ]
@@ -199,10 +199,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a1096d6788adbbd1",
+  "active": "d10d3f69ce124e3b",
   "lastOpenFiles": [
     "Taller Mecanico - SAAS.md",
+    "Git Ramas (branch).md",
     "Bienvenido.md",
+    "referenciaFigma/newCliente.png",
+    "referenciaFigma/clientes.png",
+    "referenciaFigma/Vehiculos orden#wait.png",
+    "referenciaFigma/Vehiculos orden#listo.png",
+    "referenciaFigma/Vehiculos orden#entregado.png",
+    "referenciaFigma/Vehiculos orden#.png",
+    "referenciaFigma/Vehiculos main.png",
+    "referenciaFigma/Tablero.png",
+    "referenciaFigma/Reservas.png",
+    "referenciaFigma/Login.png",
+    "referenciaFigma",
     "cree un enlace.md",
     "desktop.ini"
   ]
